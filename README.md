@@ -134,4 +134,4 @@ npm start
 
 <a href="https://github.com/NakanoTeam"><img src="https://github.com/NakanoTeam.png" width="300" height="300" alt="おDaniel"/></a>
 
-`© Ai Hoshino - MD / Nakano - Team _ By おDaniel`
+`© ☆ {ℙ𝕚𝕔𝕠𝕝𝕒𝕤𝔸𝕀𝐮𝐥𝐭𝐫𝐚-𝐌𝐃} ☆ / @Picolas`
