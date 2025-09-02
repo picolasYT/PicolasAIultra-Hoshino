@@ -132,6 +132,7 @@ npm start
 <div align="center">
   <h1 align="center">Editor y Propietario de la Bot</h1>
 
-<a href="https://github.com/NakanoTeam"><img src="https://github.com/NakanoTeam.png" width="300" height="300" alt="おDaniel"/></a>
+<h1 align="center">` Picolas `</h1>
+
 
 `© ☆ {ℙ𝕚𝕔𝕠𝕝𝕒𝕤𝔸𝕀𝐮𝐥𝐭𝐫𝐚-𝐌𝐃} ☆ / @Picolas`
