@@ -1,4 +1,4 @@
-<h1 align="center">‧ ⭐ Ai Hoshino - MD ⭐ ‧
+<h1 align="center">‧ ☆ {ℙ𝕚𝕔𝕠𝕝𝕒𝕤𝔸𝕀𝐮𝐥𝐭𝐫𝐚-𝐌𝐃} ☆ ‧
 </p>
 <p>
         <img src= "https://telegra.ph/file/89fa6a3c8e9cedda6f5ca.jpg">
